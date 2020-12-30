@@ -1,0 +1,5 @@
+Artist,Album,Song
+SingleArtist1,StandardAlbum1,SongName1
+SingleArtist1,StandardAlbum1,SongName2
+SingleArtist1,EPAlbum1,SongName1
+Band1,EPAlbum1,SongName1
